@@ -1,4 +1,4 @@
 # Snake
 
-Play HERE [https://snake.lewismatos.com/]
+[PLAY](https://snake.lewismatos.com/)
 Classic Snake Game
